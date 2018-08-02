@@ -1,0 +1,9 @@
+git clone URL
+cd "NEW REPO"
+----------------
+
+git stauts
+git pull
+git add --all
+git commit -m "put your comment"
+git push
